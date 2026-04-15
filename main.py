@@ -12,7 +12,7 @@ resources = {
     "robots": 2
 }
 
-MAX_ROBOTS = 3
+MAX_ROBOTS = 30
 
 threads = []
 
